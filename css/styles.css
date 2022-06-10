@@ -1,0 +1,47 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "Joan";
+}
+
+h2 {
+    color: blue;
+}
+
+header h2 {
+    color: #CEC8FF;
+}
+
+footer {
+    background-image: linear-gradient(#CEC8FF, white);
+    padding: 20px;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: url(/img/light.jpg);
+    background-size: cover;
+    color: rgb(145, 89, 89);
+}
+
+.row-content {
+    padding: 10px 0;
+    border-bottom: 1px;
+    border-bottom-style: ridge;
+    min-height: 200px;
+}
+
+.navbar {
+    background-color: rgb(33, 33, 33);
+}
+
+.transparent {
+    background-color: transparent;
+}
+
+.thumbnail-img {
+    background-color: transparent;
+}

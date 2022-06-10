@@ -1,0 +1,28 @@
+{
+  "name": "resume_website",
+  "version": "1.0.0",
+  "description": "Contains my website resume",
+  "main": "home.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Master-Minja/Resume_Website.git"
+  },
+  "author": "Andrew Sinclair",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Master-Minja/Resume_Website/issues"
+  },
+  "homepage": "https://github.com/Master-Minja/Resume_Website#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "font-awesome": "^4.7.0"
+  }
+}
